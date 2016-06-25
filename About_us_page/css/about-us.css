@@ -1,0 +1,87 @@
+
+    .icon-block {
+      padding: 0 15px;
+    }
+    .icon-block .material-icons {
+        font-size: inherit;
+    }
+
+    .navbar-fixed-top{
+        padding-bottom: 64px;
+    }
+
+    body {
+        padding-top: 64px;
+    }
+
+    .fsize{
+        font-size: 16px!important;
+    }
+
+    .side-nav{
+        background: #009688;
+    }
+
+    .brand-logo{
+        font-size: 225%!important;
+    }
+
+    .business-header {
+        height: 400px;
+        background: url('../c1.jpg') center center no-repeat scroll;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+    }
+
+    .col-sm-4, .col-sm-3{
+        margin-bottom: 7%;
+    }
+
+
+
+    .tagline {
+        text-shadow: 0 0 10px #000;
+        color: #fff;
+    }
+
+    .img-center {
+        margin: 0 auto;
+    }
+    .image-cropper {
+        width: 200px;
+        height: 200px;
+        position: relative;
+        overflow: hidden;
+        border-radius: 50%;
+    }
+
+    .image1 .inside-img
+    {
+       display: none;
+    }
+    .image1 .outside-img
+    {
+       display: inline; 
+    }
+    .image1:hover .outside-img
+    {
+        display:none;
+    }
+    .image1:hover .inside-img
+    {
+        display:inline;
+    }
+
+    img {
+        display: inline;
+        margin: 0 auto;
+        height: 100%;
+        width: auto;
+    }
+    footer {
+        margin: 50px 0;
+    }
+
+
