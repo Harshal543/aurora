@@ -1,0 +1,46 @@
+body{
+    background-color: #c2cfd8;
+}
+
+#footer {
+    background:#000000;
+    text-align: center;
+    width:100%;
+    position:relative;
+    bottom:0;
+    left:0;
+    font-size: 20px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.btn{
+    width: 260px;
+    font-size: 100%;
+    margin-bottom: 3%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.btn-font-size{
+    font-size: 75px;
+}
+
+.first-row{
+    margin-top: 2%;
+}
+
+.last-row{
+    margin-bottom: 65px;
+}
+
+.container{
+    margin-top: 70px;
+}
+
+.colored-tooltip + .tooltip > .tooltip-inner {
+    background-color: #000;
+}
+.colored-tooltip + .tooltip > .tooltip-arrow { 
+    border-bottom-color:#000; 
+}
